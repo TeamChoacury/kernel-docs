@@ -1,0 +1,17 @@
+<map id="/mnt/g/source/Projects/TeamChoacury/kernel/src/memory/kmalloc.c" name="/mnt/g/source/Projects/TeamChoacury/kernel/src/memory/kmalloc.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,5,257,60"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,255,80,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,62,60,82,37,109,25,142,24,178,29,212,36,241,31,242,23,213,19,178,20,141,32,107,56,78,87,58"/>
+<area shape="rect" id="Node000003" href="$d4/d03/kmalloc_8h.html" title=" " alt="" coords="47,108,134,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,62,111,99,107,96,139,58"/>
+<area shape="rect" id="Node000004" href="$d5/d60/utils_8h.html" title=" " alt="" coords="159,108,313,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,58,219,96,215,99,183,62"/>
+<area shape="rect" id="Node000005" href="$d9/d49/types_8h.html" title=" " alt="" coords="201,181,271,207"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="259,54,297,75,314,89,328,107,332,118,332,129,322,148,302,164,278,178,276,173,299,160,317,144,327,127,327,119,323,109,310,93,294,79,256,59"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,134,239,168,233,168,233,134"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="206,209,88,252,86,247,204,204"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="169,255,239,280"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="233,208,217,243,212,241,228,206"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="264,255,347,280"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="249,205,287,243,283,247,246,209"/>
+</map>

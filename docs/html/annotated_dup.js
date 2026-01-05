@@ -1,5 +1,7 @@
 var annotated_dup =
 [
+    [ "atoi_result_t", "d6/db7/structatoi__result__t.html", "d6/db7/structatoi__result__t" ],
+    [ "kmalloc_node", "d3/dd3/structkmalloc__node.html", "d3/dd3/structkmalloc__node" ],
     [ "multiboot_aout_symbol_table", "df/d98/structmultiboot__aout__symbol__table.html", "df/d98/structmultiboot__aout__symbol__table" ],
     [ "multiboot_apm_info", "d3/db4/structmultiboot__apm__info.html", "d3/db4/structmultiboot__apm__info" ],
     [ "multiboot_color", "d7/d2b/structmultiboot__color.html", "d7/d2b/structmultiboot__color" ],

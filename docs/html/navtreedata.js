@@ -25,6 +25,7 @@
 var NAVTREE =
 [
   [ "ChoacuryOS Kernel", "index.html", [
+    [ "Todo List", "dd/da0/todo.html", null ],
     [ "Bug List", "de/da5/bug.html", null ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
